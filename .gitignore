@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+[Oo]ut/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Others
+*.log
+*.tmp
+*.dbmdl
+*.bak
+*.cache
+*.ide
